@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cengizhan Güler</h1>
 <h3 align="center">JavaScript & React Developer</h3>
 
-<h3 align="center">Connect with me: <strong>cengizhanguler41@gmail.com</strong> </h3>
+<h3 align="center">I'm a Front-End Web Developer from Turkey</h3>
 <p align="center">
 </p>
 
