@@ -4,7 +4,6 @@
 <h3 align="center">I'm a Front-End Web Developer from Turkey</h3>
 <p align="center">
 </p>
-- 📫 How to reach me **cengizhanguler41@gmail.com**
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
